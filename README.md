@@ -96,14 +96,6 @@ Other options and their default values:
 ## Forked from
 [jquery-file-upload-middleware](https://github.com/aguidrevitch/jquery-file-upload-middleware/)
 
-## Contributors
-
-   * [@soomtong](http://github.com/soomtong)
-   * [@gsarwohadi](https://github.com/gsarwohadi)
-   * [@peecky](https://github.com/peecky)
-   * [@tonyspiro](https://github.com/tonyspiro)
-   * [@derjust](https://github.com/derjust)
-
 ## License
-Copyright (c) 2012 [Aleksandr Guidrevitch](http://aguidrevitch.blogspot.com/)
+Copyright (c) 2017 [Amirhossein Tavousi]
 Released under the [MIT license](http://www.opensource.org/licenses/MIT).
