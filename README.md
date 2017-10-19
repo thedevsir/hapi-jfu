@@ -97,5 +97,5 @@ Other options and their default values:
 [jquery-file-upload-middleware](https://github.com/aguidrevitch/jquery-file-upload-middleware/)
 
 ## License
-Copyright (c) 2017 [Amirhossein Tavousi](http://tavousi.name).
+Copyright (c) 2017 [Amirhossein Tavousi](http://tavousi.name)<br />
 Released under the [MIT license](http://www.opensource.org/licenses/MIT).
