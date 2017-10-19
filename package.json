@@ -1,0 +1,42 @@
+{
+  "name": "hapi-jfu",
+  "version": "1.0.0",
+  "description": "jQuery-File-Upload Hapi.js Middleware",
+  "keywords": [
+    "jquery",
+    "upload",
+    "hapi",
+    "middleware"
+  ],
+  "main": "index.js",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "lab -c -L",
+    "test-cover": "lab -c -r html -o ./test/artifacts/coverage.html && open ./test/artifacts/coverage.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tavousi/hapi-jfu"
+  },
+  "author": "Amirhossein Tavousi <p30search@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tavousi/hapi-jfu/issues"
+  },
+  "homepage": "https://github.com/tavousi/hapi-jfu",
+  "engines": {
+    "node": ">= 0.8.8"
+  },
+  "dependencies": {
+    "formidable": ">=1.0.11",
+    "imagemagick": ">=0.1.2",
+    "lodash": ">= 0.9.2",
+    "mkdirp": ">= 0.3.4",
+    "async": "*"
+  },  
+  "devDependencies": {
+    "hapi": "15.x.x",
+    "code": "3.x.x",
+    "lab": "11.x.x"
+  }
+}
